@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\C#portfoy\\LetterRates\\LetterRates.csproj": {}
+    "C:\\Users\\pc\\Desktop\\a\\C-Projects\\consoleApp\\letterrates\\LetterRates.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\C#portfoy\\LetterRates\\LetterRates.csproj": {
+    "C:\\Users\\pc\\Desktop\\a\\C-Projects\\consoleApp\\letterrates\\LetterRates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\C#portfoy\\LetterRates\\LetterRates.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\a\\C-Projects\\consoleApp\\letterrates\\LetterRates.csproj",
         "projectName": "LetterRates",
-        "projectPath": "C:\\Users\\pc\\Desktop\\C#portfoy\\LetterRates\\LetterRates.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\a\\C-Projects\\consoleApp\\letterrates\\LetterRates.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\C#portfoy\\LetterRates\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\a\\C-Projects\\consoleApp\\letterrates\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

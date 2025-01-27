@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\C#portfoy\\Fibonacci\\Fibonacci.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Desktop\\a\\C-Projects\\consoleApp\\Fibonacci\\Fibonacci.csproj",
       "projectName": "Fibonacci",
-      "projectPath": "C:\\Users\\pc\\Desktop\\C#portfoy\\Fibonacci\\Fibonacci.csproj",
+      "projectPath": "C:\\Users\\pc\\Desktop\\a\\C-Projects\\consoleApp\\Fibonacci\\Fibonacci.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\C#portfoy\\Fibonacci\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Desktop\\a\\C-Projects\\consoleApp\\Fibonacci\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

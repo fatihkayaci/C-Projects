@@ -1,0 +1,21 @@
+@{
+    Layout = "_LayoutLogin";
+    ViewData["Title"] = "Login";
+}
+<div class="login-container">
+    <div class="login-card">
+        <h1>Admin Login</h1> 
+        <form method="post" asp-controller="Login" asp-action="Admin">
+            <div class="form-group">
+                <label for="username">Username</label>
+                <input type="text" autocomplete="none" id="username" name="UserName" class="form-control" required>
+            </div>
+
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input type="password" id="password" name="Password" class="form-control" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Login</button>
+        </form>
+    </div>
+</div>
