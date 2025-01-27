@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\project\UniversityManagementSystem\bin\Debug\net9.0\UniversityManagementSystem.exe
+C:\Users\pc\Desktop\project\UniversityManagementSystem\bin\Debug\net9.0\UniversityManagementSystem.deps.json
+C:\Users\pc\Desktop\project\UniversityManagementSystem\bin\Debug\net9.0\UniversityManagementSystem.runtimeconfig.json
+C:\Users\pc\Desktop\project\UniversityManagementSystem\bin\Debug\net9.0\UniversityManagementSystem.dll
+C:\Users\pc\Desktop\project\UniversityManagementSystem\bin\Debug\net9.0\UniversityManagementSystem.pdb
+C:\Users\pc\Desktop\project\UniversityManagementSystem\obj\Debug\net9.0\UniversityManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\project\UniversityManagementSystem\obj\Debug\net9.0\UniversityManagementSystem.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\project\UniversityManagementSystem\obj\Debug\net9.0\UniversityManagementSystem.AssemblyInfo.cs
+C:\Users\pc\Desktop\project\UniversityManagementSystem\obj\Debug\net9.0\UniversityManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\project\UniversityManagementSystem\obj\Debug\net9.0\UniversityManagementSystem.dll
+C:\Users\pc\Desktop\project\UniversityManagementSystem\obj\Debug\net9.0\refint\UniversityManagementSystem.dll
+C:\Users\pc\Desktop\project\UniversityManagementSystem\obj\Debug\net9.0\UniversityManagementSystem.pdb
+C:\Users\pc\Desktop\project\UniversityManagementSystem\obj\Debug\net9.0\UniversityManagementSystem.genruntimeconfig.cache
+C:\Users\pc\Desktop\project\UniversityManagementSystem\obj\Debug\net9.0\ref\UniversityManagementSystem.dll
