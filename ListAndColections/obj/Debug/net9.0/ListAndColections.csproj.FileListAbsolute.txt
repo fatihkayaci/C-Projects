@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\C#portfoy\ListAndColections\bin\Debug\net9.0\ListAndColections.exe
+C:\Users\pc\Desktop\C#portfoy\ListAndColections\bin\Debug\net9.0\ListAndColections.deps.json
+C:\Users\pc\Desktop\C#portfoy\ListAndColections\bin\Debug\net9.0\ListAndColections.runtimeconfig.json
+C:\Users\pc\Desktop\C#portfoy\ListAndColections\bin\Debug\net9.0\ListAndColections.dll
+C:\Users\pc\Desktop\C#portfoy\ListAndColections\bin\Debug\net9.0\ListAndColections.pdb
+C:\Users\pc\Desktop\C#portfoy\ListAndColections\obj\Debug\net9.0\ListAndColections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\C#portfoy\ListAndColections\obj\Debug\net9.0\ListAndColections.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\C#portfoy\ListAndColections\obj\Debug\net9.0\ListAndColections.AssemblyInfo.cs
+C:\Users\pc\Desktop\C#portfoy\ListAndColections\obj\Debug\net9.0\ListAndColections.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C#portfoy\ListAndColections\obj\Debug\net9.0\ListAndColections.dll
+C:\Users\pc\Desktop\C#portfoy\ListAndColections\obj\Debug\net9.0\refint\ListAndColections.dll
+C:\Users\pc\Desktop\C#portfoy\ListAndColections\obj\Debug\net9.0\ListAndColections.pdb
+C:\Users\pc\Desktop\C#portfoy\ListAndColections\obj\Debug\net9.0\ListAndColections.genruntimeconfig.cache
+C:\Users\pc\Desktop\C#portfoy\ListAndColections\obj\Debug\net9.0\ref\ListAndColections.dll

@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\C#portfoy\IsItPrime\bin\Debug\net9.0\IsItPrime.exe
+C:\Users\pc\Desktop\C#portfoy\IsItPrime\bin\Debug\net9.0\IsItPrime.deps.json
+C:\Users\pc\Desktop\C#portfoy\IsItPrime\bin\Debug\net9.0\IsItPrime.runtimeconfig.json
+C:\Users\pc\Desktop\C#portfoy\IsItPrime\bin\Debug\net9.0\IsItPrime.dll
+C:\Users\pc\Desktop\C#portfoy\IsItPrime\bin\Debug\net9.0\IsItPrime.pdb
+C:\Users\pc\Desktop\C#portfoy\IsItPrime\obj\Debug\net9.0\IsItPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\C#portfoy\IsItPrime\obj\Debug\net9.0\IsItPrime.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\C#portfoy\IsItPrime\obj\Debug\net9.0\IsItPrime.AssemblyInfo.cs
+C:\Users\pc\Desktop\C#portfoy\IsItPrime\obj\Debug\net9.0\IsItPrime.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C#portfoy\IsItPrime\obj\Debug\net9.0\IsItPrime.dll
+C:\Users\pc\Desktop\C#portfoy\IsItPrime\obj\Debug\net9.0\refint\IsItPrime.dll
+C:\Users\pc\Desktop\C#portfoy\IsItPrime\obj\Debug\net9.0\IsItPrime.pdb
+C:\Users\pc\Desktop\C#portfoy\IsItPrime\obj\Debug\net9.0\IsItPrime.genruntimeconfig.cache
+C:\Users\pc\Desktop\C#portfoy\IsItPrime\obj\Debug\net9.0\ref\IsItPrime.dll

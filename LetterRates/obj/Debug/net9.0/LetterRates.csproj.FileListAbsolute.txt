@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\C#portfoy\letterrates\bin\Debug\net9.0\LetterRates.exe
+C:\Users\pc\Desktop\C#portfoy\letterrates\bin\Debug\net9.0\LetterRates.deps.json
+C:\Users\pc\Desktop\C#portfoy\letterrates\bin\Debug\net9.0\LetterRates.runtimeconfig.json
+C:\Users\pc\Desktop\C#portfoy\letterrates\bin\Debug\net9.0\LetterRates.dll
+C:\Users\pc\Desktop\C#portfoy\letterrates\bin\Debug\net9.0\LetterRates.pdb
+C:\Users\pc\Desktop\C#portfoy\letterrates\obj\Debug\net9.0\LetterRates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\C#portfoy\letterrates\obj\Debug\net9.0\LetterRates.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\C#portfoy\letterrates\obj\Debug\net9.0\LetterRates.AssemblyInfo.cs
+C:\Users\pc\Desktop\C#portfoy\letterrates\obj\Debug\net9.0\LetterRates.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C#portfoy\letterrates\obj\Debug\net9.0\LetterRates.dll
+C:\Users\pc\Desktop\C#portfoy\letterrates\obj\Debug\net9.0\refint\LetterRates.dll
+C:\Users\pc\Desktop\C#portfoy\letterrates\obj\Debug\net9.0\LetterRates.pdb
+C:\Users\pc\Desktop\C#portfoy\letterrates\obj\Debug\net9.0\LetterRates.genruntimeconfig.cache
+C:\Users\pc\Desktop\C#portfoy\letterrates\obj\Debug\net9.0\ref\LetterRates.dll

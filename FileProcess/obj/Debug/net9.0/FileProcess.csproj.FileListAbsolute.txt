@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\C#portfoy\FileProcess\bin\Debug\net9.0\FileProcess.exe
+C:\Users\pc\Desktop\C#portfoy\FileProcess\bin\Debug\net9.0\FileProcess.deps.json
+C:\Users\pc\Desktop\C#portfoy\FileProcess\bin\Debug\net9.0\FileProcess.runtimeconfig.json
+C:\Users\pc\Desktop\C#portfoy\FileProcess\bin\Debug\net9.0\FileProcess.dll
+C:\Users\pc\Desktop\C#portfoy\FileProcess\bin\Debug\net9.0\FileProcess.pdb
+C:\Users\pc\Desktop\C#portfoy\FileProcess\obj\Debug\net9.0\FileProcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\C#portfoy\FileProcess\obj\Debug\net9.0\FileProcess.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\C#portfoy\FileProcess\obj\Debug\net9.0\FileProcess.AssemblyInfo.cs
+C:\Users\pc\Desktop\C#portfoy\FileProcess\obj\Debug\net9.0\FileProcess.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C#portfoy\FileProcess\obj\Debug\net9.0\FileProcess.dll
+C:\Users\pc\Desktop\C#portfoy\FileProcess\obj\Debug\net9.0\refint\FileProcess.dll
+C:\Users\pc\Desktop\C#portfoy\FileProcess\obj\Debug\net9.0\FileProcess.pdb
+C:\Users\pc\Desktop\C#portfoy\FileProcess\obj\Debug\net9.0\FileProcess.genruntimeconfig.cache
+C:\Users\pc\Desktop\C#portfoy\FileProcess\obj\Debug\net9.0\ref\FileProcess.dll
